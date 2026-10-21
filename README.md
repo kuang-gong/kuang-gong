@@ -6,9 +6,17 @@
 ## 🛠️ Tech Stack
 
 - C / C++
-- Arduino
 - Embedded Systems
-- Python
+- Arduino
+
+## 📚 Currently Learning
+
+- C / C++
+- Embedded Systems
+- Computer Networks
+- Siemens PLC
+- IoT Technologies
+
 
 ## 📊 GitHub Stats
 
